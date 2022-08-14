@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 
 **Layouts**
+
 https://jhelvy.shinyapps.io/splitkbcompare/ offers comparison and scale diagrams of most split/ergo keyboards, including retail models like the Dygma Raise and ZSA Moonlander. Split/ergo keyboards are typically based on a 60% or 40% layout with different thumb clusters. Decide whether you want a number row and then find a thumb cluster that's comfortable for you to reach. Layouts are typically described as one half's rows x columns without the thumb cluster, e.g. a Lily58 is a 4x6 layout with thumb cluster.
 
 There are generally two categories of split/ergo boards: retail designs like the Ergodox EZ, Dygma Raise, or ZSA Moonlander, and DIY designs like the Iris, Lily58, and Corne. 
@@ -20,6 +21,7 @@ A Kinesis Advantage 2 is extremely comfortable because of its curved concave key
 Dactyl keyboards have curved concave wells like the Kinesis Advantage, but they're almost exclusively DIY with 3D printed cases and hand-wired matrixes. There are some limited run flexible PCBs for Dactyl designs but I'm not aware of any in stock at the moment. Ordering a Dactyl assembled is more akin to a commission than a retail assembly service and will run into hundreds of dollars and weeks of lead time. I am in the planning stages of a DIY Dactyl build but can't speak to them apart from the general caution above.
 
 **Microcontrollers**
+
 Most DIY designs use a Pro Micro MCU or a derivative design that adds features, though some like keeb.io's designs have integrated controllers on the PCB. 
 
 The two most important derivative designs are the Elite-C, which replaces the Micro-USB with a USB-C port, and the nice!nano, which adds BLE support including between host/client boards.
@@ -27,6 +29,7 @@ The two most important derivative designs are the Elite-C, which replaces the Mi
 Note: the nice!nano is not compatible with QMK, the predominant custom keyboard firmware, due to QMK's GNU license prohibiting proprietary bluetooth. You can use either BlueMicro or ZMK, the latter of which I have limited experience with. Read into these firmware options to make sure you're comfortable with the trade-offs and comparatively poor support/documentation before settling on wireless.
 
 **Vendors**
+
 I have purchased parts from all of the following vendors with no issues. I can't vouch for them and don't have relationships with any of them, but I have used them.
 
 https://kbdfans.com/ (Chinese w/ huge inventory and fast but expensive shipping)
@@ -44,6 +47,7 @@ https://keyhive.xyz/shop
 I participated in a group buy through The Key Company and received all of the products I ordered, but they have had management and fulfillment issues since my order.
 
 **Building**
+
 Each keyboard should have a build guide typically hosted on the vendor's site or GitHub. e.g. https://docs.keeb.io/docs/iris-rev3-build-guide/, https://github.com/kata0510/Lily58/blob/master/Pro/Doc/buildguide_en.md
 
 These should include a bill of parts and step-by-step instructions for assembly. If you can't find the build guide for the keyboard or it is poorly written, you may want to look at other options or reach out with your concerns if you're sold on the particular layout.
@@ -51,6 +55,7 @@ These should include a bill of parts and step-by-step instructions for assembly.
 If you have difficulty during a build, asking the vendor or community on Discord is usually your best bet for advice.
 
 **Soldering**
+
 First, I'll defer to keeb.io and The Wirecutter for soldering supply recommendations.
 
 https://docs.keeb.io/docs/soldering-tools/
@@ -82,6 +87,7 @@ Note: the above only applies for linear and tactile switches. Most people do not
 - If your board uses a sandwich case, the pins on your switches and the friction between the switch housing and top plate are the only things holding your PCB in place. Make sure you get a good fit on each.
 
 **Firmware**
+
 If you bought a retail board, check with its documentation as it may have a GUI/web app tool for building firmware.
 
 If you prefer a GUI and you're using a DIY board, you may be able to use QMK configurator https://config.qmk.fm/#/facew/LAYOUT_all or VIA https://caniusevia.com/ to most avoid CLIs provided your board supports it. Make sure you have the correct revision of your board and bear in mind some features like encoders and lighting may require building your own.
@@ -94,6 +100,7 @@ For setting up CLI environments, I'm going to link the documentation with an inv
 [ZMK](https://zmkfirmware.dev/docs/)
 
 **Re-Learning Touch Typing**
+
 I adapted to the Kinesis Freestyle Edge with very few adjustments because the layout is essentially standard staggered but cut between the TGB and YHN keys. If your index fingers wander you may find this difficult, but it's a mild adjustment. (I *do* have strong feelings about how the number row is split -- 6 should go on the right hand, not the left. The Freestyle Edge breaks this but every other split/ergo board I know of does not.)
 
 The Kinesis Advantage 2 required about a week to go from 40 wpm to 100 wpm due to the ortholinear columns. I had to unlearn bad habits like curling in my index finger to hit "c." I found https://www.keybr.com/ indispensable for this. It uses a type of spaced reptition study and algorithm to learn which keys and key combinations you have difficulty with and serve appropriate words both real and fake so you can't paper over technique with memorization.
