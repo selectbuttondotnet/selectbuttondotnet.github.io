@@ -1,2 +1,2 @@
 # selectbuttondotnet.github.io
-Github Pages
+Organization repository for gameoeuvre.org, a community project of the selectbutton.net forums.
