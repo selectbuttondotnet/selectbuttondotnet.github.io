@@ -9,7 +9,7 @@ When prompted with installation options, press enter.
 
 2. Download and install [GitHub Desktop](https://desktop.github.com/)
 
-3. Clone the repository for gameoeuvre. Mine lives in c:\users\[username]\documents\github\selectbuttondotnet.github.io
+3. Clone the repository for gameoeuvre. Mine lives in c:/users/[username]/documents/github/selectbuttondotnet.github.io
 
 4. Open a command prompt and type/execute the following commands:
 
