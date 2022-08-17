@@ -4,7 +4,7 @@ layout: post
 
 title: "Feel the Gentle Touch of Tentacles: The Sinking City"
 
-date: 2022-08-15 01:00:69 -0700
+date: 2022-08-15 01:00:00 -0700
 
 categories: reviews
 
