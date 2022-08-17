@@ -25,7 +25,7 @@ The moody art direction and presentation of The Sinking City still manages to im
 <p align="center">
   <img src="https://lh4.googleusercontent.com/gn1Io3YGYzBHGuAIYyHUTgau6hMKtF46fQwZtYG8p22I-RSObDXB-L1z-KNCnXKkaKFOP9q3eU9kZo5ckpTwaVU-J7WPqEEZX1-adevvJVNkAqCYe0QZCPsj32Y7jpb2ENCG2co9-v5Do1ETmRXFNLg">
 </p>
-In the early hours of an apocalypse, Oakmonters are already confronting the life-altering consequences of ecological collapse. It’s a rendering that for me is especially harrowing, an unstable framerate version of the slow-motion apocalypse I have watched unfold in the decade leading up to the COVID-19 pandemic. All aspects of the city coalesce into a whole as a site with centuries of history, where the ambiance of civilization is still motivating people to try and live a mostly normal life before an encroaching disaster. Oakmont is a setting that becomes animated, not just through exposition you can encounter in a cutscene or read in a codex item, nor does it seem believable just because the beauty of its presentation, but largely through a kind of literary realism that aligns historical facts about the city with observed truths about the way people live there, as the most meaningful environments, real or virtual tend to.
+In these early hours of the apocalypse, Oakmonters are already confronting the life-altering consequences of ecological collapse. It’s a rendering that for me is especially harrowing, an unstable framerate version of the slow-motion apocalypse I have watched unfold in the decade leading up to the COVID-19 pandemic. All aspects of the city coalesce into a whole as a site with centuries of history, where the ambiance of civilization is still motivating people to try and live a mostly normal life before an encroaching disaster. Oakmont is a setting that becomes animated, not just through exposition you can encounter in a cutscene or read in a codex item, nor does it seem believable just because the beauty of its presentation, but largely through a kind of literary realism that aligns historical facts about the city with observed truths about the way people live there, as the most meaningful environments, real or virtual tend to.
 
 But moving deeper inside Oakmont, into its houses and offices where signs of life should be most unique and personalized, that realistic impression of social life seems faint. Many of the game’s unique investigations occur in similar looking interiors, which is a bafflingly underdesigned context for the regular process of pouring over murder sites for clues. All of the murders in the city appear to happen in identical apartments, a glaring fault that makes you consider whether it is the shared floor plan and interior design driving Oakmont residents to kill one another. Needless to say, this is not the solution to The Sinking City’s grand mystery, just an absurd possibility that kept me entertained amidst the repetition. 
 
@@ -46,16 +46,16 @@ This initial investigation concludes with the discovery of Albert’s corpse and
 
 The point of these investigations, then, is not the creativity or potential for error in the deductive process, but the act of weighing the social effects of what you will inevitably discover. Frogwares is more interested in having players consider the morality and ethics of the conflicts that The Sinking City’s mysteries have players confront. Investigation itself is a mechanical process with no potential for misunderstandings or methodological variation. 
 
-Instead, investigations usually only diverge in the interpretation of what all the clues, suspects and motives ultimately speak to: if this was or was not a race crime. Inexplicable acts of occult violence can be made entirely comprehensible with the proper narrative around them. The final interpretation of any crime is the convenient elimination of all ambiguity. The people who employ Charles Reed, and perhaps all private investigators, are people in need of someone who can shore together meaningless actions into discrete motivations, a storyteller that can tell the rest of us when something is more than just violence but a criminal act. His employers are concerned only with useful facts like this, and players of The Sinking City will have to oblige them in order to progress. So it seems that it was necessary for Frogwares to deprive Charles Reed of the gift of misapprehension because there are no need for poets who would withhold a useful truth from their audience like Charles Reznikoff in this city:
+Instead, investigations usually only diverge in the interpretation of what all the clues, suspects and motives ultimately speak to: if this was or was not a race crime. Inexplicable acts of occult violence can be made entirely comprehensible with the proper narrative around them. The final interpretation of any crime is the convenient elimination of all ambiguity. The people who employ Charles Reed, and perhaps all private investigators, are people in need of someone who can shore together meaningless actions into discrete motivations, a storyteller that can tell the rest of us when something is more than just violence but a criminal act. His employers are concerned only with useful facts like this, and players of The Sinking City will have to oblige them in order to progress. So it seems that it was necessary for Frogwares to deprive Charles Reed of the gift of misapprehension because Oakmont has no need for someone who would withhold a useful truth from their audience, for poets like Charles Reznikoff:
 
 >He picked up a stick of wood and said,
-’’By Jesus Christ, I will knock your brains out,’’
-and told her to leave the house.
-She answered she would go when she was good and ready.
-He said, ’’You will go before you are ready,’’
-and shoved her towards the door.
-She caught hold of the door casing;
-and their little girl began to cry. [^1]
+>"By Jesus Christ, I will knock your brains out,"
+>and told her to leave the house.
+>She answered she would go when she was good and ready.
+>He said, "You will go before you are ready,"
+>and shoved her towards the door.
+>She caught hold of the door casing;
+>and their little girl began to cry. [^1]
 
 In this sense, investigation in The Sinking City is a pretext for allowing the player to author the significance of each crime to serve a social context. It’s about authoring truths and tailoring effects to perpetuate or alter social reality. 
 
