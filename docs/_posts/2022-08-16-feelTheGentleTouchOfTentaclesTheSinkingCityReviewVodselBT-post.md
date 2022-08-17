@@ -46,18 +46,18 @@ This initial investigation concludes with the discovery of Albert’s corpse and
 
 The point of these investigations, then, is not the creativity or potential for error in the deductive process, but the act of weighing the social effects of what you will inevitably discover. Frogwares is more interested in having players consider the morality and ethics of the conflicts that The Sinking City’s mysteries have players confront. Investigation itself is a mechanical process with no potential for misunderstandings or methodological variation. 
 
-Instead, investigations usually only diverge in the interpretation of what all the clues, suspects and motives ultimately speak to: if this was or was not a race crime. Inexplicable acts of occult violence can be made entirely comprehensible with the proper narrative around them. The final interpretation of any crime is the convenient elimination of all ambiguity. The people who employ Charles Reed, and perhaps all private investigators, are people in need of someone who can shore together meaningless actions into discrete motivations, a storyteller that can tell the rest of us when something is more than just violence but a criminal act. His employers are concerned only with useful truth like this, and players of The Sinking City will have to oblige them in order to progress. So it seems that it was necessary for Frogwares to deprive Charles Reed of the gift of misapprehension because Oakmont has no need for someone who would leave truth obscured by fact. There is no use for poets like Charles Reznikoff:
+Instead, investigations usually only diverge in the interpretation of what all the clues, suspects and motives ultimately speak to: if this was or was not a race crime. Inexplicable acts of occult violence can be made entirely comprehensible with the proper narrative around them. The final interpretation of any crime is the convenient elimination of all ambiguity. The people who employ Charles Reed, and perhaps all private investigators, are people in need of someone who can shore together meaningless actions into discrete motivations, a storyteller that can tell the rest of us when something is more than just violence but a criminal act. His employers are concerned only with useful truth like this, and players of The Sinking City will have to oblige them in order to progress. So it seems that it was necessary for Frogwares to deprive Charles Reed of the gift of misapprehension because Oakmont has no need for someone who would leave truth obscured by fact. Charles Reed have to be storytellers, because a poet like Charles Reznikoff has no use:
 
->He picked up a stick of wood and said,
->"By Jesus Christ, I will knock your brains out,"
->and told her to leave the house.
->She answered she would go when she was good and ready.
->He said, "You will go before you are ready,"
->and shoved her towards the door.
->She caught hold of the door casing;
->and their little girl began to cry. [^1]
+He picked up a stick of wood and said,
+"By Jesus Christ, I will knock your brains out,"
+and told her to leave the house.
+She answered she would go when she was good and ready.
+He said, "You will go before you are ready,"
+and shoved her towards the door.
+She caught hold of the door casing;
+and their little girl began to cry. [^1]
 
-In this sense, investigation in The Sinking City is a pretext for allowing the player to author the significance of each crime to serve a social context. It’s about authoring truths and tailoring effects to perpetuate or alter social reality. 
+In this sense, investigation in The Sinking City is a pretext for allowing the player to summarize the significance of each crime to serve a social context. It’s about authoring truths and tailoring effects to perpetuate or alter social reality. 
 
 But your authority ultimately feels ineffectual. Reed never faces consequences for putting boot-sized holes through the walls of Oakmont’s civic institutions. As truths are authored, by bullet or by Reed’s word, the city remains the same regardless of his decisions. Reed’s growing prominence within Oakmont lends creed to the assumption The Sinking City wants players to participate in this story as an interloper, one whose brain becomes pickled by a briney eldritch solvent, too deeply involved, like so many characters in the mythos that Frogwares is drawing from. With as much attention to the civic relationships of Oakmont’s present and historical citizens paid by Frogwares, a character like Charles Reed seems primed to disrupt. Although he is in the position to decide who lives or dies, whether anyone lives or dies in The Sinking City is irrelevant to how the game is played or how the story proceeds.
 
