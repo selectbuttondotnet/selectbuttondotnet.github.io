@@ -2,14 +2,13 @@
 
 layout: post
 
-title: Mystery Meat 1: Cubic Independence Movement
+title: "Mystery Meat 1: Cubic Independence Movement"
 
 date: 2022-08-21 06:00:00 -0500
 
 categories: shortform, helicopter, cube
 
 ---
-
 
 ![alt_text](http://harmonyzone.org/Pics/vgw/Beautycopter.png "Beautycopter")
 
