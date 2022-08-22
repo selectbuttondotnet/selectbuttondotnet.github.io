@@ -32,7 +32,7 @@ The helicopter, a physics toy with few animations to worry about, is one of the 
  
 
 
-![Alpha Waves](http://harmonyzone.org/vgw/alphawave.png)
+![Alpha Waves](https://lh6.googleusercontent.com/UGs9vN7Ir_rLkfcYcTzD8SkcPfbBbPcN6ZBwKFpR2nEvK8_A1tM_AyQQYhZqZA1vdwc=w2400)
 
 
 
