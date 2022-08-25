@@ -11,7 +11,7 @@ categories:gliding
 ---
 
 <p align="center">
-  <img src="![image](https://user-images.githubusercontent.com/112116644/186751593-f87d77c0-1130-46a2-8e24-6f23fccbd525.png)">
+  <img src="https://milky.flowers/misc/xevious.jpg">
 </p>
 well, i've always really liked the background in xevious, with its quilt of ambiguous greenery and little walking paths, bodies of water. as a kid i'd feel kind of let-down by shooters with inviting background graphics you couldn't "Go down" into, and explore- a weird hang-up to have about a game really! in practice i guess it was just a matter of whether the terrain has collision in some form, whether you can direct the motion of the camera- but without this technical understanding the imagination i had of it seemed more like the difference really is whether I'm "only ever seeing the world from a plane". i can't go down and touch it and wander around and grind my little guy against some rock faces. i just glide by on a fixed track watching it go by, not even the pilot as much as a passenger laying on the car seat rotating my head back and forth, the plane staying in place but moving in vision. mysterious orbs and enemy bases go by, there is a nice lake with some hiking trails, there is a clearing, a beach, it all blends together after awhile but it suggests all these other places you could be.
 
