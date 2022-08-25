@@ -6,7 +6,7 @@ title: "Gliding"
 
 date: 2022-08-25 15:20:49 -0400
 
-categories:gliding
+categories: gliding
 
 ---
 
