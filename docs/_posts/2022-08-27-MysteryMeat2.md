@@ -19,7 +19,7 @@ Museum Meltdown can be found floating around [online](http://synworld.t0.or.at/l
 
 ![Ib](https://gdurl.com/QPCQ)
 
-**IB **– Case in point: how _useful_ museums are as a setting! Visual interest – modular, themed rooms – environmental storytelling, informational signs – cavernous marble halls – interminable backrooms and storage areas, begging to be filled with crates (the level designer’s friend). And of course if you make videogames yourself it can be nice to have a setting which invites some showing off. All the little touches of background filler, vases, paintings, etc, can now come to the fore as art objects in their own right, placed flatteringly on plinths for the admiration of the viewer.
+**IB** – Case in point: how _useful_ museums are as a setting! Visual interest – modular, themed rooms – environmental storytelling, informational signs – cavernous marble halls – interminable backrooms and storage areas, begging to be filled with crates (the level designer’s friend). And of course if you make videogames yourself it can be nice to have a setting which invites some showing off. All the little touches of background filler, vases, paintings, etc, can now come to the fore as art objects in their own right, placed flatteringly on plinths for the admiration of the viewer.
 
 Of course if your museological ambitions are higher than providing set dressing for a Sierra game you will probably run into trouble. Haruhiko Shono's "Alice: An Interactive Museum" is great, surprising, weird - but does tend to come to a complete stop whenever you're asked to actually sit down and look at one of the Kuniyoshi Kaneko paintings placed around the environment. Desperately you click around, and sometimes something happens, but... it's as though videogames prompt a very different kind of looking than the kind we might want to apply to an art object, something quicker and more scattershot, jumping from point to point, unseeing. You can put paintings in a game -  our eyes brush past them on their way to somewhere else.
 
@@ -31,7 +31,7 @@ I've been writing here about museums, digital art, the singular object - maybe i
 
 ![Duke Nukem 3D - Museum Meltdown 2](https://gdurl.com/Hchj)
 
-**MUSEUM MELTDOWN 2 **- That's right!!! It's a series. Part 2 takes place in a reconstructed version of the Contemporary Art Centre in Vilnius, Lithuania and feels like something of a concession - there are much fewer enemies around, so even inexperienced Dukeheads can appreciate some art (although tougher boss monsters hang out on the maintenance floors). The architecture is more straightforward this time although I appreciate that's not strictly their fault, and most of the art pieces are the same. But overall I have to recommend this over the original for two reasons:
+**MUSEUM MELTDOWN 2** - That's right!!! It's a series. Part 2 takes place in a reconstructed version of the Contemporary Art Centre in Vilnius, Lithuania and feels like something of a concession - there are much fewer enemies around, so even inexperienced Dukeheads can appreciate some art (although tougher boss monsters hang out on the maintenance floors). The architecture is more straightforward this time although I appreciate that's not strictly their fault, and most of the art pieces are the same. But overall I have to recommend this over the original for two reasons:
 
 - You can blow up the Jeff Koons bunny with a rocket launcher this time (a Flying Drone comes out and attacks.)
 
