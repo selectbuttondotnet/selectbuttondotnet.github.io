@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "Mystery Meat 1: Cubic Independence Movement"
+title: "Cubic Independence Movement"
 
 date: 2022-08-21 06:00:00 -0500
 
