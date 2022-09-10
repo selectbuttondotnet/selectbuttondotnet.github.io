@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mystery Meat 2: World Of Museums"
+title: "World Of Museums"
 date: 2022-08-27 06:00:00 -0500
 categories: mysterymeat
 ---
