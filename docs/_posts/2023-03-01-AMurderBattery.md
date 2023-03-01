@@ -5,7 +5,7 @@ date: 2023-03-01 12:00:00 -0600
 categories: reviews
 ---
 
-![SCENE: BISHOP'S BREAKFAST TABLE. Bishop (to timid Curate on a visit), "Dear me, I'm afraid your egg's not good!"; Timid Curate. "Oh, yes, my Lord, really – er – some parts of it are very good." Originally published in Judy, 22 May 1895.](/selectbuttondotnet.github.io/assets/curatesegg.jpg)
+![SCENE: BISHOP'S BREAKFAST TABLE. Bishop (to timid Curate on a visit), "Dear me, I'm afraid your egg's not good!"; Timid Curate. "Oh, yes, my Lord, really – er – some parts of it are very good." Originally published in Judy, 22 May 1895.](/selectbuttondotnet.github.io/assets/curatesegg.jpg){:style="display:block; margin-left:auto; margin-right:auto"}
 
 Someone built a railroad and said it was alive. It may have been you, but now you must build trains. Every year, a new train. You see each car you touch coupled and consider it an end.
 
