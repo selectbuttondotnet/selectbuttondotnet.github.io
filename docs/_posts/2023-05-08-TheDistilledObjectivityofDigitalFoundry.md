@@ -1,8 +1,13 @@
 ---
+
 layout: post
+
 title: "The Distilled Objectivity of Digital Foundry"
+
 date: 2023-05-08 13:00:00 -0100
+
 categories: digital foundry
+
 ---
 
 Digital foundry is simply the best form of mainstream game coverage because it satisfies the gamer craving for objective measures of quality in an otherwise subjective experience. Digital Foundry's attention to detail when it comes to the technical aspects of games as products is something I find fascinating compared to traditional game reviews. This is mainly because their methodology is so different compared to most game assessments that exist in the mainstream, they're technical, thorough, and eerily better than many forms of game criticism.
